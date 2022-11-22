@@ -1,9 +1,11 @@
-== typescript with mudules un webpack
+== typescript with wepack
+
+run typscrpt mode watch to compile
+
+`npx tsc -w`
 
 run webpack web server
 
-npm run dev
+`npm run dev`
 
-run typscrpt mode watch
-
-npx tsc -w 
+ 
