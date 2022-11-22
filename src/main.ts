@@ -1,4 +1,4 @@
-import {printconsole} from './second.js' 
+import {printconsole} from './second' 
 
 
 
